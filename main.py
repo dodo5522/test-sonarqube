@@ -20,12 +20,5 @@ def sub():
     print('hello world again!')
 
 
-def sub3():
-    '''
-    this function is sub
-    '''
-    print('hello world again!')
-
-
 if __name__ == '__main__':
     main()
