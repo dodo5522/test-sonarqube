@@ -20,4 +20,4 @@ def sub2():
 
 
 if __name__ == '__main__':
-    sub2()
+    main()
