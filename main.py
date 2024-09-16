@@ -10,10 +10,9 @@ def main():
     this function is main
     '''
     print('hello world!')
-    sub()
 
 
-def sub():
+def sub2():
     '''
     this function is sub
     '''
